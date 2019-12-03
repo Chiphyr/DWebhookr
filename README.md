@@ -1,3 +1,7 @@
+> Warning: this was made back when I wasn't the *best* at JS, so it consists of, well, pretty bad code.
+
+---
+
 # DWebhookr
 This is just what I use to send messages through webhooks in Discord. See below for help!
 
